@@ -39,4 +39,4 @@ The tool has been tested against the live September 24, 2026 BTOS page on Window
 
 ## Scope
 
-This is the first specific source tool. A shared interface for multiple scrapers comes later, after individual tools have actual users and stable behavior. The tool is free to use; [Ko-fi](https://ko-fi.com/jju1s) is available for optional support.
+This is the first specific source tool. A shared interface for multiple scrapers comes later, after individual tools have actual users and stable behavior. The tool is free to use.
